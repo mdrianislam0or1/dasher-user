@@ -148,6 +148,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 |:---:|:---:|
 | ![author-pic][] | ![banner][] |
 
+| [Kembert Nieves][author-github] | ![email-icon][] Email me to [contact@kembertnieves.com][author-email] / ![linkedin-icon][] Connect to [my Linkedin][author-linkedin] |
+|:---:|:---:|
+| ![author-pic][] | ![banner][] |
+
 ## Contributing
 
 [![contributions welcome][contributions-welcome]][issues-url]
@@ -195,6 +199,10 @@ Feel free to fork this project and improve it!
 [author-github]: https://israel-laguan.github.io
 [author-linkedin]: https://www.linkedin.com/in/israellaguan
 [author-email]: mailto:contact@israellaguan.com
+[author-pic-2]: https://avatars.githubusercontent.com/u/29690711?s=400&u=595548564c3d62553ee61b1b233882826994f5de&v=4
+[author-github-2]: github.com/saikilito
+[author-linkedin-2]: https://www.linkedin.com/in/kembert-nieves-brice%C3%B1o-a9879976/
+[author-email-2]: mailto:kembert@gmail.com
 [linkedin-icon]: https://img.icons8.com/color/20/000000/linkedin.png
 [email-icon]: https://img.icons8.com/color/20/000000/message-squared.png
 [banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
